@@ -18,4 +18,4 @@ I also *freelance* on the side. So hit me up if you want to turn an idea into a 
 
 #### Misc
 
-- I love playing chess. So if you're into that, let's play a game&nbsp;&nbsp;<img src="16e1ed4fc09dc0bebf0e2f46182cfddb9c5ecbea" height="15px">
+- I love playing chess. So if you're into that, let's play a game&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/emilsharier/emilsharier/9b4e88da93d35212f6fe8dba48d15c7ac0e27115/assets/pawn.svg" height="15px">
