@@ -1,10 +1,10 @@
-## __*Hello there*__ <img src="data:image/png;base64,R0lGODlhDgAPALMNAJnM///MAAAAAAAzmWZmZszMzJmZmTMz//9mADMzM/8AADOZ/zNm/////wAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQJFAANACwAAAAADgAPAAAEPrDJSau9OFPGFsudd1QJQTCAx4xTUhSoykqJYXTCOmCLsBw7CwLhGxQIloAigGgYCgnLUtE0RKVLmmbLnUQAACH5BAkUAA0ALAAAAAAOAA8AAAQ+sMlJq72YscVw29xRJQTBABwjTklRnOkqJYaxCeqALcJy6BaEojcoECwBhbBhKCQsSiXzGVQEZheFZ8vlRgAAIfkECRQADQAsAAAAAA4ADwAABEGwyUmrlYwtdvHaR5UQBANsTDglRWGiqpQYhiakQ7cIy5FbCARvUCBYFIoAomEoJI4BxdLwrCCiCtlF2ul6v+BJBAAh+QQFFAANACwAAAAADgAPAAAEPrDJSau9mLHFcNvcUSUEwQAcI05JUZzpKiWGsQnqgC3CcugWhKI3KBAsAYWwYSgkLEol8xlUBGYXhWfL5UYAADs=">
+## **_Hello there_** <img src="data:image/png;base64,R0lGODlhDgAPALMNAJnM///MAAAAAAAzmWZmZszMzJmZmTMz//9mADMzM/8AADOZ/zNm/////wAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQJFAANACwAAAAADgAPAAAEPrDJSau9OFPGFsudd1QJQTCAx4xTUhSoykqJYXTCOmCLsBw7CwLhGxQIloAigGgYCgnLUtE0RKVLmmbLnUQAACH5BAkUAA0ALAAAAAAOAA8AAAQ+sMlJq72YscVw29xRJQTBABwjTklRnOkqJYaxCeqALcJy6BaEojcoECwBhbBhKCQsSiXzGVQEZheFZ8vlRgAAIfkECRQADQAsAAAAAA4ADwAABEGwyUmrlYwtdvHaR5UQBANsTDglRWGiqpQYhiakQ7cIy5FbCARvUCBYFIoAomEoJI4BxdLwrCCiCtlF2ul6v+BJBAAh+QQFFAANACwAAAAADgAPAAAEPrDJSau9mLHFcNvcUSUEwQAcI05JUZzpKiWGsQnqgC3CcugWhKI3KBAsAYWwYSgkLEol8xlUBGYXhWfL5UYAADs=">
 
 <img src="https://raw.githubusercontent.com/emilsharier/emilsharier/16e1ed4fc09dc0bebf0e2f46182cfddb9c5ecbea/assets/Avataaar.svg">
 
-I'm [__Emil Sharier__](http://www.emilsharier.in "Emil Sharier"), an Int MCA student at [ASAS, Mysore](https://www.amrita.edu/asas/mysore/ "Amrita school of arts and sciences, Mysore"). 
+I'm [**Emil Sharier**](http://www.emilsharier.in "Emil Sharier"), an Int MCA student at [ASAS, Mysore](https://www.amrita.edu/asas/mysore/ "Amrita school of arts and sciences, Mysore").
 
-I also *freelance* on the side. So hit me up if you want to turn an idea into a product.
+I also _freelance_ on the side. So hit me up if you want to turn an idea into a product.
 
 ### Things I do
 
@@ -15,6 +15,10 @@ I also *freelance* on the side. So hit me up if you want to turn an idea into a 
 ### What I'm currently up to
 
 - Learning more about Nodejs
+
+### Github stats
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=emilsharier&show_icons=true&theme=onedark)
 
 #### Misc
 
