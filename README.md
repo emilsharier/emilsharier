@@ -1,6 +1,7 @@
-## **_Hello there_** <img src="data:image/png;base64,R0lGODlhDgAPALMNAJnM///MAAAAAAAzmWZmZszMzJmZmTMz//9mADMzM/8AADOZ/zNm/////wAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQJFAANACwAAAAADgAPAAAEPrDJSau9OFPGFsudd1QJQTCAx4xTUhSoykqJYXTCOmCLsBw7CwLhGxQIloAigGgYCgnLUtE0RKVLmmbLnUQAACH5BAkUAA0ALAAAAAAOAA8AAAQ+sMlJq72YscVw29xRJQTBABwjTklRnOkqJYaxCeqALcJy6BaEojcoECwBhbBhKCQsSiXzGVQEZheFZ8vlRgAAIfkECRQADQAsAAAAAA4ADwAABEGwyUmrlYwtdvHaR5UQBANsTDglRWGiqpQYhiakQ7cIy5FbCARvUCBYFIoAomEoJI4BxdLwrCCiCtlF2ul6v+BJBAAh+QQFFAANACwAAAAADgAPAAAEPrDJSau9mLHFcNvcUSUEwQAcI05JUZzpKiWGsQnqgC3CcugWhKI3KBAsAYWwYSgkLEol8xlUBGYXhWfL5UYAADs=">
+## **_<center>Hello there_** <img src="data:image/png;base64,R0lGODlhDgAPALMNAJnM///MAAAAAAAzmWZmZszMzJmZmTMz//9mADMzM/8AADOZ/zNm/////wAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQJFAANACwAAAAADgAPAAAEPrDJSau9OFPGFsudd1QJQTCAx4xTUhSoykqJYXTCOmCLsBw7CwLhGxQIloAigGgYCgnLUtE0RKVLmmbLnUQAACH5BAkUAA0ALAAAAAAOAA8AAAQ+sMlJq72YscVw29xRJQTBABwjTklRnOkqJYaxCeqALcJy6BaEojcoECwBhbBhKCQsSiXzGVQEZheFZ8vlRgAAIfkECRQADQAsAAAAAA4ADwAABEGwyUmrlYwtdvHaR5UQBANsTDglRWGiqpQYhiakQ7cIy5FbCARvUCBYFIoAomEoJI4BxdLwrCCiCtlF2ul6v+BJBAAh+QQFFAANACwAAAAADgAPAAAEPrDJSau9mLHFcNvcUSUEwQAcI05JUZzpKiWGsQnqgC3CcugWhKI3KBAsAYWwYSgkLEol8xlUBGYXhWfL5UYAADs=">
 
-<img src="https://raw.githubusercontent.com/emilsharier/emilsharier/16e1ed4fc09dc0bebf0e2f46182cfddb9c5ecbea/assets/Avataaar.svg">
+</center>
+<center><img src="https://raw.githubusercontent.com/emilsharier/emilsharier/16e1ed4fc09dc0bebf0e2f46182cfddb9c5ecbea/assets/Avataaar.svg"></center>
 
 I'm [**Emil Sharier**](http://www.emilsharier.in "Emil Sharier"), an Int MCA student at [ASAS, Mysore](https://www.amrita.edu/asas/mysore/ "Amrita school of arts and sciences, Mysore").
 
